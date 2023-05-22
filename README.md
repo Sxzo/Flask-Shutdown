@@ -1,7 +1,7 @@
 # Flask Shutdown
 ## Purpose
 
-This script has one central purpose: shut down all Flask Apps on their respective ports. This is done using the psutil and signal libraries in Python. 
+This script has one central purpose: shut down all Flask Apps on their respective ports. 
 
 ## Motivation
 
